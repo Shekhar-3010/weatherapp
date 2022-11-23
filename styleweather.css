@@ -1,0 +1,13 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(35, 242, 218);
+    background-image:url(weatherapp.jpg);
+}  
+
+.banner {
+    color: #3f9dfb;
+    font-family: sans-serif;
+}
